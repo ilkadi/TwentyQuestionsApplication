@@ -1,0 +1,35 @@
+{
+  "qa_list": [
+    {
+      "Question N1?": "Yes"
+    },
+    {
+      "Question N2?": "No"
+    },
+    {
+      "Question N3?": "No"
+    },
+    {
+      "Question N4?": "Yes"
+    },
+    {
+      "Question N5?": "Yes"
+    },
+    {
+      "Question N6?": "No"
+    },
+    {
+      "Question N7?": "No"
+    },
+    {
+      "Question N8?": "No"
+    },
+    {
+      "Question N9?": "No"
+    },
+    {
+      "Question N10?": ""
+    }
+  ],
+  "final_guess": ""
+}
