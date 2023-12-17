@@ -4,6 +4,7 @@ Repository primarily serves as the CI-pipeline based `docker` assembly, taking t
 embedding it into container with a simple rest endpoint. Of course while validating that the glue code is tested and coverage is acceptable.
 
 The README also provides an overview how this repository fits into the wider MLops processes.
+Please see the complete article on how this template application fits into the Kubernetes-based Model Platform: https://cyber-observer.blogspot.com/2023/12/neat-alternative-to-kubeflow-for-poor.html
 
 ## Overview
 ![ambassador](readme_images/ci_pipeline.png)
